@@ -1,0 +1,6 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "baseUrl":"https://www.avonow.com",
+    "defaultCommandTimeout": 60000,
+    "pageLoadTimeout": 60000
+}
